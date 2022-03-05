@@ -35,10 +35,11 @@ C# .NET
 
 ## Usage
 Main process is written in [Program.cs](https://github.com/taiga-n/Google_Photo_Exif_Encorder/blob/master/GooglePhotoExifEncorder/Program.cs)  
-set masterReadFilePath as path of parent folder exported from google, and when program runs, automatically exported to masterSaveFilePath.
+set masterReadFilePath as path of parent folder exported from google,   
+and when program runs, automatically exported to masterSaveFilePath.
 
-メインの処理は[Program.cs](https://github.com/taiga-n/Google_Photo_Exif_Encorder/blob/master/GooglePhotoExifEncorder/Program.cs)に書かれています． 
-masterReadFilePathに，googleからエクスポートしたフォトの親フォルダをのパスを選択し，
+メインの処理は[Program.cs](https://github.com/taiga-n/Google_Photo_Exif_Encorder/blob/master/GooglePhotoExifEncorder/Program.cs)に書かれています．  
+masterReadFilePathに，googleからエクスポートしたフォトの親フォルダをのパスを選択し，  
 実行すれば全自動で，masterSaveFilePathに書き出されます．
 
 ## Licence
